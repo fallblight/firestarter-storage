@@ -1,4 +1,4 @@
-# firestarter-storage
+# Firestarter Storage Node
 
 #### 1. Install Pipe Cli
 ```bash
